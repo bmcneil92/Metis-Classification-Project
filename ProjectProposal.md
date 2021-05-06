@@ -8,7 +8,7 @@ to investigate predicting whether or not a horse will place in their upcoming ra
 
 
 ### Question/need:
-Hong Kong's Jockey Club is one of the most lucrative horse racing syndectics with each racing averaging more than 17.86 million dollars. The purpose of this analysis is to apply this model to future horse races of the Hong Kong's Jockey Club to give the user a statistical edge when placing their bets on a particular horse.
+Hong Kong's Jockey Club is one of the most lucrative horse racing syndectics in the world, attracting more than 17.86 million dollars of bets per race. The purpose of this analysis is to apply this model to future horse races of the Hong Kong's Jockey Club to give the user a statistical edge when placing their bets on a particular horse.
 
 ### Data Description:
 The dataset will be taken from Kaggle (linked above) which compiles data from the Hong Kong Jockey Club's 2014-2017 season and contains over 14,000 data points. The current data set has more than 15 features readily available, with the possibility of more to be engineered.
