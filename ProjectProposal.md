@@ -4,7 +4,7 @@
 
 For this project, we will set out to explore 
 [Hong Kong syndecate horse racing data](https://www.kaggle.com/hrosebaby/horse-racing-dataset-for-experts-hong-kong?select=results.csv) 
-to investigate predicting whether or not a horse will place.
+to investigate predicting whether or not a horse will place in their upcoming race!
 
 
 ### Question/need:
