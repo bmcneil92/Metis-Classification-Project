@@ -16,7 +16,7 @@ The dataset will be taken from Kaggle (linked above) which compiles data from th
 The baseline odds of a horse comng in 1st, 2nd, or 3rd in our dataset is around 30%.
 
 
-Our target will be a binary problem with 0 representing ****not placing**** - coming in 4th place or lower, and 1 representing a horse **placing** - coming in 3rd place or higher.
+Our target will be a binary problem with 0 representing ****not placing**** - coming in 4th place or lower, and 1 representing  **placing** - coming in 3rd place or higher.
 
 ### Tools:
 
