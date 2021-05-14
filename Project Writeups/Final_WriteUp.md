@@ -2,7 +2,7 @@ Brandon McNeil
 Metis Project 4 - Classification
 
 ## Context
-Hong Kong's Jockey Club is one of the most lucrative horse racing syndicates in the world, attracting more than 17.86 million dollars of bets per race. 
+Hong Kong's Jockey Club is one of the most lucrative horse racing institutions in the world, attracting more than 17.86 million dollars of bets per race. 
 
 The purpose of this analysis is to apply this model to future horse races of the Hong Kong's Jockey Club to give the user a statistical edge when placing their bets on a particular horse.
  
